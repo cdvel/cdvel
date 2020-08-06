@@ -13,9 +13,9 @@
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdvel&layout=compact)](https://github.com/anuraghazra/github-readme-stats&text_color=#3DBBD2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdvel&layout=compact)](https://github.com/anuraghazra/github-readme-stats&text_color=3DBBD2)
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdvel&show_icons=true&hide_border=true&text_color=#3DBBD2" />
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdvel&show_icons=true&hide_border=true&text_color=3DBBD2" />
 
 [tech-radar]: https://cdvel.github.io/tech-radar
 [website]: https://cesar.velandia.co
