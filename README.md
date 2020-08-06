@@ -1,18 +1,17 @@
-### Hi there 👋 I'm Cesar! You can find me as `@cdvel` in most websites.
+### Hi there 👋 I'm Cesar! You can find me as `@cdvel` in most networks.
 
-- I'm a team lead, cloud infrastructure specialist, and consultant
+- I'm a tech team lead, cloud infrastructure specialist, and consultant
 - Always looking to collaborate in interesting projects
 - If you'd like to learn more about the tools I use check [here][tech-radar]
 
-### Find me
+### Find me elsewhere
 
 [<img align="left" alt="cesar.velandia.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="cdvel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="cdvel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cdvel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-----
+<hr/>
 
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdvel&show_icons=true&hide_border=true" />
 
