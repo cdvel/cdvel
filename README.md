@@ -11,9 +11,9 @@
 [<img align="left" alt="cdvel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cdvel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<hr/>
-
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdvel&show_icons=true&hide_border=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdvel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [tech-radar]: https://cdvel.github.io/tech-radar
 [website]: https://cesar.velandia.co
