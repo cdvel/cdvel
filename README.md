@@ -2,7 +2,7 @@
 
 - I'm a tech team lead, cloud infrastructure specialist, and consultant
 - Always looking to collaborate in interesting projects, ping me!
-- If you'd like to learn more about the tools I use check [my tech radar][tech-radar] [¹][https://cesar.velandia.co/tech-radar/]
+- If you'd like to learn more about the tools I use check [my tech radar][tech-radar] [¹][tech-radar-post]
 
 ### Find me elsewhere
 
@@ -18,6 +18,7 @@
 <img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdvel&show_icons=true&hide_border=true" />
 
 [tech-radar]: https://cdvel.github.io/tech-radar
+[tech-radar-post]: https://cesar.velandia.co/tech-radar/
 [website]: https://cesar.velandia.co
 [twitter]: https://twitter.com/cdvel
 [instagram]: https://instagram.com/cdvel
