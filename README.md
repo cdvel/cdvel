@@ -2,7 +2,7 @@
 
 - I'm a tech team lead, cloud infrastructure specialist, and consultant
 - Always looking to collaborate in interesting projects, ping me!
-- If you'd like to learn more about the tools I use check [my tech radar][tech-radar]
+- If you'd like to learn more about the tools I use check [my tech radar][tech-radar] [¹][https://cesar.velandia.co/tech-radar/]
 
 ### Find me elsewhere
 
