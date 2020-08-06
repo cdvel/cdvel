@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Cesar! You can find me as `@cdvel` in most networks.
 
 - I'm a tech team lead, cloud infrastructure specialist, and consultant
-- Always looking to collaborate in interesting projects
-- If you'd like to learn more about the tools I use check [here][tech-radar]
+- Always looking to collaborate in interesting projects, ping me!
+- If you'd like to learn more about the tools I use check [my tech radar][tech-radar]
 
 ### Find me elsewhere
 
@@ -13,9 +13,9 @@
 
 <br/><br/>
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdvel&show_icons=true&hide_border=true" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cdvel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=cdvel&show_icons=true&hide_border=true" />
 
 [tech-radar]: https://cdvel.github.io/tech-radar
 [website]: https://cesar.velandia.co
