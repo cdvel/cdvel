@@ -1,8 +1,9 @@
-### Hi there 👋 I'm Cesar! You can find me as `@cdvel` in most networks.
+### Hi there 👋 I'm Cesar! 
 
 - I'm a tech team lead, cloud infrastructure specialist, and consultant
 - Always looking to collaborate in interesting projects, ping me!
 - If you'd like to learn more about the tools I use check [my tech radar][tech-radar] [¹][tech-radar-post]
+- Find me as `@cdvel` in most networks.
 
 ### Find me elsewhere
 
