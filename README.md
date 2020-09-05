@@ -2,8 +2,6 @@
 Hi I'm Cesar ✌️💻
 </h2>
 
----
-
 <img src="https://res.cloudinary.com/cdvel/image/upload/w_760,c_fit,co_rgb:232129,g_south_west,x_500,y_254,l_text:lato_90:cesar.velandia.co/v1592215845/social_card_new.webp" height="200" align="right" style="float:right; border-radius: 3px;overflow: hidden;"/>
 
 ### 8 techy facts about me
@@ -14,7 +12,7 @@ Hi I'm Cesar ✌️💻
 4. Like theoretical computer science and hardware hacks
 6. Keep tabs on the tools I use in [my tech radar][tech-radar] [¹][tech-radar-post]
 7. Looking for opportunities to improve as a technical writer and communicator
-5. Searching for collaborators to develop an idea for edge computing (LoRa)
+5. Developing an idea for edge computing (LoRa). Ping me if interested
 8. Spaces > Tabs
 
 ### Get in touch 📬
