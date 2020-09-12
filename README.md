@@ -4,15 +4,15 @@ Hi✌️ I'm César 💻
 
 <img src="https://res.cloudinary.com/cdvel/image/upload/w_760,c_fit,co_rgb:232129,g_south_west,x_500,y_254,l_text:lato_90:cesar.velandia.co/v1592215845/social_card_new.webp" height="200" align="right" style="float:right; border-radius: 3px;overflow: hidden;"/>
 
-### 8 techy facts about me
+### 8 things about me
 
-1. Work in cloud Infrastructure and automation
-2. Enjoy sharing knowledge and collaborating with others
-3. Growing as a developer by learning and collaborating in [Rust](https://github.com/search?q=rust)
+1. Work in cloud Infrastructure and automation projects
+2. Enjoy collaborating in tech with others
+3. Growing as a developer by learning [Rust](https://github.com/search?q=rust)
 4. Like theoretical computer science and hardware hacks
 6. Keep tabs on the tools I use in [my tech radar][tech-radar] [¹][tech-radar-post]
 7. Looking for opportunities to improve as a technical writer and communicator
-5. Developing an idea for edge computing (LoRa). Ping me if interested
+5. Developing an idea for edge computing (LoRa), interested?
 8. Spaces > Tabs
 
 ### Get in touch 📬
