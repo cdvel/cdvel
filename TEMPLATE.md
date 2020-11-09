@@ -33,6 +33,6 @@ Find me as `cdvel` in most sites
 
 ### Most used languages
 
-{{ LANGUAGE_TEMPLATE_START:max=4}}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=for-the-badge={{LANGUAGE_NAME:uri}}&logo=&label=%E2%A0%80&color=222&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_START:max=10}}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=for-the-badge&logo=={{LANGUAGE_NAME:uri}}&label=%E2%A0%80&color=222&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
