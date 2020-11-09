@@ -13,6 +13,18 @@ César D. Velandia ☁️💻
 5. Developing an idea for edge computing (LoRa), interested?
 8. Spaces > Tabs
 
+### Most used languages
+
+![Jupyter Notebook](https://img.shields.io/static/v1?style=for-the-badge&logo=Jupyter%20Notebook&label=%E2%A0%80&color=222&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B141.1%25)
+![Python](https://img.shields.io/static/v1?style=for-the-badge&logo=Python&label=%E2%A0%80&color=222&labelColor=%233572A5&message=Python%EF%B8%B117.4%25)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&logo=JavaScript&label=%E2%A0%80&color=222&labelColor=%23f1e05a&message=JavaScript%EF%B8%B116.1%25)
+![CSS](https://img.shields.io/static/v1?style=for-the-badge&logo=CSS&label=%E2%A0%80&color=222&labelColor=%23563d7c&message=CSS%EF%B8%B112.6%25)
+![HTML](https://img.shields.io/static/v1?style=for-the-badge&logo=HTML&label=%E2%A0%80&color=222&labelColor=%23e34c26&message=HTML%EF%B8%B13.9%25)
+![C++](https://img.shields.io/static/v1?style=for-the-badge&logo=C%2B%2B&label=%E2%A0%80&color=222&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B13%25)
+![Rust](https://img.shields.io/static/v1?style=for-the-badge&logo=Rust&label=%E2%A0%80&color=222&labelColor=%23dea584&message=Rust%EF%B8%B11.8%25)
+![SCSS](https://img.shields.io/static/v1?style=for-the-badge&logo=SCSS&label=%E2%A0%80&color=222&labelColor=%23c6538c&message=SCSS%EF%B8%B11.3%25)
+![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=Java&label=%E2%A0%80&color=222&labelColor=%23b07219&message=Java%EF%B8%B10.7%25)
+![Other](https://img.shields.io/static/v1?style=for-the-badge&logo=Other&label=%E2%A0%80&color=222&labelColor=%23ededed&message=Other%EF%B8%B11.6%25)
 
 ### Get in touch 📬
 
@@ -23,23 +35,10 @@ Find me as `cdvel` in most sites
 [<img align="left" alt="cdvel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cdvel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
 [tech-radar]: https://cdvel.github.io/tech-radar
 [tech-radar-post]: https://cesar.velandia.co/tech-radar/
 [website]: https://cesar.velandia.co
 [twitter]: https://twitter.com/cdvel
 [instagram]: https://instagram.com/cdvel
 [linkedin]: https://linkedin.com/in/cdvelandia
-
-
-### Most used languages
-
-![Jupyter Notebook](https://img.shields.io/static/v1?style=for-the-badge&logo==Jupyter%20Notebook&label=%E2%A0%80&color=222&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B141.1%25)
-![Python](https://img.shields.io/static/v1?style=for-the-badge&logo==Python&label=%E2%A0%80&color=222&labelColor=%233572A5&message=Python%EF%B8%B117.4%25)
-![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&logo==JavaScript&label=%E2%A0%80&color=222&labelColor=%23f1e05a&message=JavaScript%EF%B8%B116.1%25)
-![CSS](https://img.shields.io/static/v1?style=for-the-badge&logo==CSS&label=%E2%A0%80&color=222&labelColor=%23563d7c&message=CSS%EF%B8%B112.6%25)
-![HTML](https://img.shields.io/static/v1?style=for-the-badge&logo==HTML&label=%E2%A0%80&color=222&labelColor=%23e34c26&message=HTML%EF%B8%B13.9%25)
-![C++](https://img.shields.io/static/v1?style=for-the-badge&logo==C%2B%2B&label=%E2%A0%80&color=222&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B13%25)
-![Rust](https://img.shields.io/static/v1?style=for-the-badge&logo==Rust&label=%E2%A0%80&color=222&labelColor=%23dea584&message=Rust%EF%B8%B11.8%25)
-![SCSS](https://img.shields.io/static/v1?style=for-the-badge&logo==SCSS&label=%E2%A0%80&color=222&labelColor=%23c6538c&message=SCSS%EF%B8%B11.3%25)
-![Java](https://img.shields.io/static/v1?style=for-the-badge&logo==Java&label=%E2%A0%80&color=222&labelColor=%23b07219&message=Java%EF%B8%B10.7%25)
-![Other](https://img.shields.io/static/v1?style=for-the-badge&logo==Other&label=%E2%A0%80&color=222&labelColor=%23ededed&message=Other%EF%B8%B11.6%25)
