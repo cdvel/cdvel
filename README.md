@@ -2,6 +2,12 @@
 César D. Velandia ☁️💻
 </h3>
 
+<div style="float: right;">
+  <a href="https://github.com/cdvel/cdvel" title="Cesar's Top Programming Languages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdvel&langs_count=10&title_color=000000&text_color=555&icon_color=2bbc8a&bg_color=fff&layout=compact" />
+  </a>
+</div>
+
 1. Work in cloud Infrastructure and automation projects
 2. Enjoy collaborating in tech with others
 3. Growing as a developer by learning [Rust](https://github.com/search?q=rust)
@@ -11,11 +17,6 @@ César D. Velandia ☁️💻
 5. Developing an idea for edge computing (LoRa), interested?
 8. Spaces > Tabs
 
-<div style="top: 0px; float: right; border-radius: 3px;overflow: hidden;">
-  <a href="https://github.com/cdvel/cdvel" title="Cesar's Top Programming Languages">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdvel&langs_count=10&title_color=000000&text_color=555&icon_color=2bbc8a&bg_color=fff&layout=compact" />
-  </a>
-</div>
 
 ### Get in touch 📬
 
