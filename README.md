@@ -24,7 +24,9 @@ César D. Velandia ☁️💻
 ![Rust](https://img.shields.io/static/v1?style=for-the-badge&logo=Rust&label=%E2%A0%80&color=222&labelColor=%23dea584&message=Rust%EF%B8%B11.8%25)
 ![SCSS](https://img.shields.io/static/v1?style=for-the-badge&logo=SCSS&label=%E2%A0%80&color=222&labelColor=%23c6538c&message=SCSS%EF%B8%B11.3%25)
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&logo=Java&label=%E2%A0%80&color=222&labelColor=%23b07219&message=Java%EF%B8%B10.7%25)
-![Other](https://img.shields.io/static/v1?style=for-the-badge&logo=Other&label=%E2%A0%80&color=222&labelColor=%23ededed&message=Other%EF%B8%B11.6%25)
+![TypeScript](https://img.shields.io/static/v1?style=for-the-badge&logo=TypeScript&label=%E2%A0%80&color=222&labelColor=%232b7489&message=TypeScript%EF%B8%B10.5%25)
+![Shell](https://img.shields.io/static/v1?style=for-the-badge&logo=Shell&label=%E2%A0%80&color=222&labelColor=%2389e051&message=Shell%EF%B8%B10.3%25)
+![Other](https://img.shields.io/static/v1?style=for-the-badge&logo=Other&label=%E2%A0%80&color=222&labelColor=%23ededed&message=Other%EF%B8%B10.7%25)
 
 ### Get in touch 📬
 
