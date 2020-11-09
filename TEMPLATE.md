@@ -13,6 +13,11 @@ César D. Velandia ☁️💻
 5. Developing an idea for edge computing (LoRa), interested?
 8. Spaces > Tabs
 
+### Most used languages
+
+{{ LANGUAGE_TEMPLATE_START:max=10}}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=for-the-badge&logo={{LANGUAGE_NAME:uri}}&label=%E2%A0%80&color=222&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
 ### Get in touch 📬
 
@@ -23,16 +28,10 @@ Find me as `cdvel` in most sites
 [<img align="left" alt="cdvel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cdvel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
 [tech-radar]: https://cdvel.github.io/tech-radar
 [tech-radar-post]: https://cesar.velandia.co/tech-radar/
 [website]: https://cesar.velandia.co
 [twitter]: https://twitter.com/cdvel
 [instagram]: https://instagram.com/cdvel
 [linkedin]: https://linkedin.com/in/cdvelandia
-
-
-### Most used languages
-
-{{ LANGUAGE_TEMPLATE_START:max=10}}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=for-the-badge&logo=={{LANGUAGE_NAME:uri}}&label=%E2%A0%80&color=222&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
-{{ LANGUAGE_TEMPLATE_END }}
