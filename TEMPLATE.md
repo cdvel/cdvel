@@ -16,7 +16,7 @@ César D. Velandia ☁️💻
 ### Most used languages
 
 {{ LANGUAGE_TEMPLATE_START:max=14}}
-![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=for-the-badge&label=%E2%A0%80&color=222&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
 
 ### Get in touch 📬
