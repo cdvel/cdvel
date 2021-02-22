@@ -3,7 +3,7 @@
 César D. Velandia
 </h2>
 
-<hr/>
+<br/>
 
 1. Work in cloud Infrastructure and automation projects
 2. Enjoy collaborating in tech with others
