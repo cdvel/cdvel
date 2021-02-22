@@ -1,7 +1,7 @@
-<h3 align="left">
+<h2 align="left">
   <img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="30px" width="30px" align="left" style="float:left; overflow: hidden; margin-top:-10px;"/>
 César D. Velandia
-</h3>
+</h2>
 
 <hr/>
 
