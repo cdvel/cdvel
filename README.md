@@ -1,5 +1,6 @@
-<img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="40px" width="40px" align="left" style="float:left; overflow: hidden;"/>
+
 <h3 align="left" style="margin-top: -10px;"> 
+<img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="40px" width="40px" align="left" style="float:left; overflow: hidden; margin-top:-20px;"/>
 César D. Velandia
 </h3>
 
