@@ -1,8 +1,7 @@
-<h3 align="left">
+<img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="40px" width="40px" align="left" style="float:left; border-radius: 3px;overflow: hidden;"/>
+<h3 align="left"> 
 César D. Velandia ☁️💻
 </h3>
-
-<img src="https://res.cloudinary.com/cdvel/image/upload/w_760,c_fit,co_rgb:232129,g_south_west,x_500,y_254,l_text:lato_90:cesar.velandia.co/v1592215845/social_card_new.webp" height="160rem" width="300rem" align="right" style="float:right; border-radius: 3px;overflow: hidden;"/>
 
 1. Work in cloud Infrastructure and automation projects
 2. Enjoy collaborating in tech with others
