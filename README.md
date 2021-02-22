@@ -3,7 +3,7 @@
 <img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="40px" width="40px" align="left" style="float:left; overflow: hidden; margin-top:-10px;"/>
 César D. Velandia
 </h3>
-
+<hr/>
 1. Work in cloud Infrastructure and automation projects
 2. Enjoy collaborating in tech with others
 3. Growing as a developer by learning [Rust](https://github.com/search?q=rust)
