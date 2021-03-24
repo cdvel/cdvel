@@ -2,6 +2,7 @@
 <img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="50px" width="50px" align="left" style="float:left; overflow: hidden; margin-top:-10px;"/>
 César D. Velandia
 </h2>
+<br/>
 
 1. Work in cloud Infrastructure and automation projects
 2. Enjoy collaborating in tech with others
