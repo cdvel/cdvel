@@ -22,7 +22,7 @@ César D. Velandia
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23e34c26&message=HTML%EF%B8%B14.7%25)
 ![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23c6538c&message=SCSS%EF%B8%B13.3%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.9%25)
-![Rust](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23dea584&message=Rust%EF%B8%B11.7%25)
+![Rust](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23dea584&message=Rust%EF%B8%B11.8%25)
 ![Java](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23b07219&message=Java%EF%B8%B10.7%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%232b7489&message=TypeScript%EF%B8%B10.5%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%2389e051&message=Shell%EF%B8%B10.3%25)
