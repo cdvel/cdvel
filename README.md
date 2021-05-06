@@ -39,6 +39,10 @@ Find me as `cdvel` in most sites
 [<img align="left" alt="cdvel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="cdvel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=cdvel&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=10421005)
 
 [tech-radar]: https://cdvel.github.io/tech-radar
 [tech-radar-post]: https://cesar.velandia.co/tech-radar/
