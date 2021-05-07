@@ -46,3 +46,8 @@ Find me as `cdvel` in most sites
 [twitter]: https://twitter.com/cdvel
 [instagram]: https://instagram.com/cdvel
 [linkedin]: https://linkedin.com/in/cdvelandia
+
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=cdvel&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=10421005)
