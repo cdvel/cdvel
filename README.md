@@ -27,7 +27,7 @@ César D. Velandia
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%2389e051&message=Shell%EF%B8%B10.5%25)
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%232b7489&message=TypeScript%EF%B8%B10.4%25)
 ![Handlebars](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23f7931e&message=Handlebars%EF%B8%B10.2%25)
-![Smarty](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23ededed&message=Smarty%EF%B8%B10.1%25)
+![Smarty](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23f0c040&message=Smarty%EF%B8%B10.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23ededed&message=Other%EF%B8%B10.3%25)
 
 ### Get in touch 📬
