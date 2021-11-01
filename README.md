@@ -4,16 +4,9 @@ César D. Velandia
 </h2>
 <br/>
 
-1. Work in cloud Infrastructure and automation projects
-2. Enjoy collaborating in tech with others
-3. Growing as a developer by learning [Rust](https://github.com/search?q=rust)
-4. Like theoretical computer science and hardware hacks
-6. Keep tabs on the tools I use in [my tech radar][tech-radar] [¹][tech-radar-post]
-7. Looking for opportunities to improve as a technical writer and communicator
-5. Developing an idea for edge computing (LoRa), interested?
-8. Spaces > Tabs
+Mostly working in **secure cloud Infrastructure and automation** projects, I enjoy collaborating in tech with others and learning new technologies, languages (such as [Rust](https://github.com/search?q=rust)), and occassionally theoretical computer science and hardware hacks. I keep tabs on the tools I use in [my tech radar][tech-radar] [¹][tech-radar-post]. Also, looking for opportunities to improve as a **technical writer and communicator**
 
-### Most used languages
+#### Most used languages
 
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B133.7%25)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23e34c26&message=HTML%EF%B8%B119%25)
@@ -30,9 +23,7 @@ César D. Velandia
 ![Smarty](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23f0c040&message=Smarty%EF%B8%B10.1%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23ededed&message=Other%EF%B8%B10.3%25)
 
-### Get in touch 📬
-
-Find me as `cdvel` in most sites
+#### Get in touch 📬
 
 [<img align="left" alt="cesar.velandia.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="cdvel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
