@@ -13,7 +13,9 @@ Working on **secure cloud Infrastructure, DevSecOps, and secure software supply 
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23e34c26&message=HTML%EF%B8%B119%25)
 ![Python](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%233572A5&message=Python%EF%B8%B114.3%25)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23f1e05a&message=JavaScript%EF%B8%B113.8%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23ededed&message=Other%EF%B8%B119%25)
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23563d7c&message=CSS%EF%B8%B19.7%25)
+![SCSS](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23c6538c&message=SCSS%EF%B8%B12.8%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23ededed&message=Other%EF%B8%B16.4%25)
 
 #### Get in touch
 
