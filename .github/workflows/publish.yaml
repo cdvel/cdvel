@@ -4,12 +4,12 @@ on:
     - cron: '0 */12 * * *' # every 12 hours
   push:
     branches:
-      - master
+      - main
 jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
       with:
         fetch-depth: 0
     - name: Generate README.md
