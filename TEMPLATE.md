@@ -7,13 +7,14 @@ César D. Velandia
 
 Working on **secure cloud Infrastructure, DevSecOps, and secure software supply chain** projects, I enjoy collaborating in tech with others and learning new technologies, languages (such as [Rust](https://github.com/search?q=rust)), and occassionally theoretical computer science and hardware hacks. I keep tabs on the tools I use in [my tech radar][tech-radar] [¹][tech-radar-post] and continuously look for opportunities to improve as a technical writer and communicator.
 
-#### Most used languages
+<!-- #### Most used languages 
 
 {{ LANGUAGE_TEMPLATE_START:max=7}}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
 {{ LANGUAGE_TEMPLATE_END }}
+-->
 
-#### Get in touch
+### Get in touch
 
 [<img align="left" alt="cesar.velandia.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="cdvel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
