@@ -1,9 +1,5 @@
-<div align="left">
 <img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="50px" width="50px" align="left" style="float:left; overflow: hidden; margin-top:-20px;"/>
-<h3 style="line-height:2rem;">César D. Velandia</h3>
-</div>
-<br/>
-
+<h3>César D. Velandia</h3>
 
 Working on **secure cloud Infrastructure, DevSecOps, and secure software supply chain** projects, I enjoy collaborating in tech with others and learning new technologies, languages (such as [Rust](https://github.com/search?q=rust)), and occassionally theoretical computer science and hardware hacks. I keep tabs on the tools I use in [my tech radar][tech-radar] [¹][tech-radar-post] and continuously look for opportunities to improve as a technical writer and communicator.
 
