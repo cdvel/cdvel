@@ -1,7 +1,7 @@
-<h2 align="left" style="line-height: 3rem !important;border-bottom: 0px solid black !important;">
-<img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="50px" width="50px" align="left" style="float:left; overflow: hidden; margin-top:-10px;"/>
-César D. Velandia
-</h2>
+<div align="left">
+<img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="50px" width="50px" align="left" style="float:left; overflow: hidden; margin-top:-20px;"/>
+<h3 style="line-height:2rem;">César D. Velandia</h3>
+</div>
 <br/>
 
 
