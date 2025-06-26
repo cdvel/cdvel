@@ -1,7 +1,7 @@
 <img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="50px" width="50px" align="left" style="float:left; overflow: hidden; margin-top:-20px;"/>
 <h3>César D. Velandia</h3>
 
-Building **secure infrastructure and DevSecOps tooling** with a focus on **software supply chain security**. Currently diving deep into [Rust](https://github.com/search?q=rust) and exploring how security intersects with **AI/LLM systems and embedded devices**.
+Building **secure infrastructure and DevSecOps tooling** with a focus on **software supply chain security**. Currently diving deep into [Rust](https://github.com/cdvel?tab=repositories&q=&type=&language=rust&sort=) and exploring how security intersects with **AI/LLM systems and embedded devices**.
 
 I learn in public and enjoy **collaborating on security-focused projects**. Always curious about emerging threats and defense patterns. Track my technology explorations in [my tech radar][tech-radar] [¹][tech-radar-post] and share insights through technical writing.
 
