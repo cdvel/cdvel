@@ -5,19 +5,6 @@ Building **secure infrastructure and DevSecOps tooling** with a focus on **softw
 
 I learn in public and enjoy **collaborating on security-focused projects**. Always curious about emerging threats and defense patterns. Track my technology explorations in [my tech radar][tech-radar] and share insights through technical writing.
 
-**Open to collaborating** on anything at the intersection of security, systems programming, and emerging tech.
-
-<!-- #### Most used languages 
-
-![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B142.6%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%233572A5&message=Python%EF%B8%B118%25)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23f1e05a&message=JavaScript%EF%B8%B117%25)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23563d7c&message=CSS%EF%B8%B110%25)
-![C++](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B13.1%25)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23e34c26&message=HTML%EF%B8%B12.7%25)
-![Other](https://img.shields.io/static/v1?style=flat-square&label=%20&color=222&labelColor=%23ededed&message=Other%EF%B8%B16.2%25)
--->
-
 ### Get in touch
 
 [<img align="left" alt="cesar.velandia.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
