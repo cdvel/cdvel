@@ -3,7 +3,7 @@
 
 Building **secure infrastructure and DevSecOps tooling** with a focus on **software supply chain security**. Currently diving deep into [Rust](https://github.com/cdvel?tab=repositories&q=&type=&language=rust&sort=) and exploring how security intersects with **AI/LLM systems and embedded devices**.
 
-I learn in public and enjoy **collaborating on security-focused projects**. Always curious about emerging threats and defense patterns. Track my technology explorations in [my tech radar][tech-radar] [¹][tech-radar-post] and share insights through technical writing.
+I learn in public and enjoy **collaborating on security-focused projects**. Always curious about emerging threats and defense patterns. Track my technology explorations in [my tech radar][tech-radar] and share insights through technical writing.
 
 **Open to collaborating** on anything at the intersection of security, systems programming, and emerging tech.
 
@@ -26,8 +26,7 @@ I learn in public and enjoy **collaborating on security-focused projects**. Alwa
 [<img align="left" alt="cdvel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[tech-radar]: https://cdvel.github.io/tech-radar
-[tech-radar-post]: https://cesar.velandia.co/tech-radar/
+[tech-radar]: https://cesar.velandia.co/notes/tech-radar/
 [website]: https://cesar.velandia.co
 [twitter]: https://twitter.com/cdvel
 [instagram]: https://instagram.com/cdvel
