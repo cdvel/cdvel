@@ -1,4 +1,4 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/cdv-monogram-dark.svg"><img src="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/cdv-monogram.svg" alt="" height="50" align="left"></picture>
+<img src="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/cdv-monogram.svg" alt="" height="64" align="left">
 <h3>César D. Velandia</h3>
 <br clear="left"/>
 
@@ -8,10 +8,10 @@ I learn in public, keep a [tech radar][tech-radar] of what I'm exploring, and wr
 
 ### Get in touch
 
-[<img align="left" alt="cesar.velandia.co" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="cdvel | X" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/develop/icons/x.svg" />][twitter]
-[<img align="left" alt="cdvel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="cdvel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="cesar.velandia.co" width="28px" src="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/globe.svg" />][website]
+[<img align="left" alt="cdvel | X" width="28px" src="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/x.svg" />][twitter]
+[<img align="left" alt="cdvel | LinkedIn" width="28px" src="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/linkedin.svg" />][linkedin]
+[<img align="left" alt="cdvel | Instagram" width="28px" src="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/instagram.svg" />][instagram]
 
 
 [tech-radar]: https://cesar.velandia.co/notes/tech-radar/
