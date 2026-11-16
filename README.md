@@ -1,9 +1,9 @@
 <img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="50px" width="50px" align="left" style="float:left; overflow: hidden; margin-top:-20px;"/>
 <h3>César D. Velandia</h3>
 
-Building **secure infrastructure and DevSecOps tooling** with a focus on **software supply chain security**. Currently diving deep into [Rust](https://github.com/cdvel?tab=repositories&q=&type=&language=rust&sort=) and exploring how security intersects with **AI/LLM systems and embedded devices**.
+I work across **security, architecture and developer tooling**, from system design and team workflows down to the tools themselves. Lately that means **AI agents** and the **MCP servers** they call: what they can reach, who approved it, and how they fit into a team's workflow. I write tools in [Rust](https://github.com/cdvel?tab=repositories&q=&type=&language=rust&sort=) and Go.
 
-I learn in public and enjoy **collaborating on security-focused projects**. Always curious about emerging threats and defense patterns. Track my technology explorations in [my tech radar][tech-radar] and share insights through technical writing.
+I learn in public, keep a [tech radar][tech-radar] of what I'm exploring, and write on [my site][website]. Always happy to work with people on open source projects.
 
 ### Get in touch
 
