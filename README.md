@@ -1,5 +1,6 @@
 <img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="50px" width="50px" align="left" style="float:left; overflow: hidden; margin-top:-20px;"/>
 <h3>César D. Velandia</h3>
+<br clear="left"/>
 
 I work across **security, architecture and developer tooling**, from system design and team workflows down to the tools themselves. Lately that means **AI agents** and the **MCP servers** they call: what they can reach, who approved it, and how they fit into a team's workflow. I write tools in [Rust](https://github.com/cdvel?tab=repositories&q=&type=&language=rust&sort=) and Go.
 
