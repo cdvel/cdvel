@@ -2,7 +2,7 @@
 <h3>César D. Velandia</h3>
 <br clear="left"/>
 
-I work across **security, architecture and developer tooling**, from system design and team workflows down to the tools themselves. Lately that means **AI agents** and the **MCP servers** they call: what they can reach, who approved it, and how they fit into a team's workflow. I write tools in [Rust](https://github.com/cdvel?tab=repositories&q=&type=&language=rust&sort=) and Go.
+I work across **security, architecture and developer tooling**, from system design and team workflows down to the tools themselves. Lately that means **AI agents** and the **MCP servers** they call: what they can reach, who approved it, and how they fit into a team's workflow. I write tools in Rust and Go.
 
 I learn in public, keep a [tech radar][tech-radar] of what I'm exploring, and write on [my site][website]. Always happy to work with people on open source projects.
 
