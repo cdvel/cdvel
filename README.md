@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/cdvel/image/upload/v1612791504/logos/cdv_hexa.svg" height="50px" width="50px" align="left" style="float:left; overflow: hidden; margin-top:-20px;"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/cdv-monogram-dark.svg"><img src="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/cdv-monogram.svg" alt="" height="50" align="left"></picture>
 <h3>César D. Velandia</h3>
 <br clear="left"/>
 
