@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/cdv-monogram.svg" alt="" height="64" align="left">
+<img src="https://raw.githubusercontent.com/cdvel/cdvel/main/assets/cdv-monogram.svg?v=2" alt="" height="64" align="left">
 <h3>César D. Velandia</h3>
 <br clear="left"/>
 
